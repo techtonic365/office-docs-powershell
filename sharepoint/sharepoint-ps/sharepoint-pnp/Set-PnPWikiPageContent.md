@@ -91,7 +91,8 @@ Required: False
 Position: Named
 Accept pipeline input: False
 ```
-
+## NOTES
+Set-PnPWikiPageContent Cmdlet works with Modern sites. It does not work with the wiki pages created with the classic Enterprise Wiki template.
 ## RELATED LINKS
 
 [SharePoint Developer Patterns and Practices](https://aka.ms/sppnp)
